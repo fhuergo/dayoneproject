@@ -13,7 +13,7 @@ export const UserHome = props => {
       <h3>Welcome, {email}</h3>
     </div>
   )
-}
+};
 
 /**
  * CONTAINER
